@@ -53,7 +53,31 @@
   * RNA is produced within Nucleus
   * Processing is also done within the nucleus which is as follows:
   * Addition of cap and tail to protect from enzymes and help ribosomes recognize it.
-  * Non-coding introns are removed and exons are glued together. Exons are the genes that are expressed. (RNA splicing) This helps in one sequence leading to multiple expressions. 
+  * Non-coding introns are removed and exons are glued together. Exons are the genes that are expressed. (RNA splicing) This helps in one sequence leading to multiple expressions.
+
+## Translation
+* mRNA: Transcription produces this.
+* Machinery to translate this to polypeptides requires ATP, it includes ribosomes and tRNA
+* tRNA: RNA polynucleotide chain that is relatively stable, and can be simplified to two sites: *anti-codon* that matches (complementary to it) with a specific codon on mRNA when the ribosome is over it, and the *amino acid attachment site* which holds the matching amino acid.
+  * Amino acid is attached by an enzyme using ATP (enzyme: Aminoacyl-tRNA synthetase)
+* Once a matching tRNA is obtained, the ribosome detaches the amino acid from the tRNA and attaches it to the growing polypeptide sequence
 
 > [!NOTE]
-> Define phenotype and genotype
+> Synthetase: Uses energy from nucleoside triphosphates like ATP (and others)
+> Synthase: Don't use energy from them
+
+### Ribosome
+* Large and small subunit, and the large subunit has two tRNA binding sites
+* A site is where the tRNA for the next amino acid attaches. P site: tRNA that holds the growing polypeptide
+* Binding site for mRNA on small subunit
+
+### Back to Translation
+* Translation begins with cap and an initiation sequence
+* Methionine tRNA binds to the start codon AUG (anti-codon: UAC)
+* Ribosome: Large subunit binds to the smaller and the initiator tRNA fits to P site
+* Anti-codon of incoming tRNA pairs with mRNA in the A site
+* Polypeptide leaves P site and attaches to the new amino acid
+* P site tRNA leaves, A site tRNA with the polypeptide and the mRNA is moved to P site by the ribosome
+* This continues till UAA, UAG or UGA is reached
+
+

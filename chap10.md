@@ -1,4 +1,4 @@
-# Chapter 10 - DNA Structure and replication
+# Chapter 10 - DNA Structure and Replication
 ## Structure of DNA
 * 3' end is where the OH is, 5' is where the Phosphate is
 * New nucleotides are attached to the 3' end
@@ -79,5 +79,22 @@
 * Polypeptide leaves P site and attaches to the new amino acid
 * P site tRNA leaves, A site tRNA with the polypeptide and the mRNA is moved to P site by the ribosome
 * This continues till UAA, UAG or UGA is reached
+
+## Mutations
+* Broadly, two types: nucleotide substitutions and nucleotide insertion/deletion
+* Substitutions may not have any effect at all (GAA -> GAG: Both code for the same protein)
+* Addition/Deletion (Frameshift mutation): Changes the entire sequence as it changes the grouping of the triplets
+
+* Another classification of mutations:
+  * _Silent mutations:_ Substitution leads to the same amino acid itself: redundant change
+  * _Missense mutations:_ Substitution leads to a change in one amino acid - could result in very little effects on the resulting protein, but it could result in a huge change (Sickle cell anemia)
+  * _Nonsense mutations:_ Amino acid codon -> Stop codon: Prematurely ending the polypeptide sequence.
+
+### Mutagens
+* One possible reason for mutations: DNA replication/recombination.
+* Other sources: Mutagens (physical and chemical agents)
+* Most common physical mutagen: X-rays, UV
+* Chemical mutagens: Some types are similar to DNA bases but do not pair properly, so it breaks the nucleotide sequence.
+* Many mutagens: carcinogens
 
 

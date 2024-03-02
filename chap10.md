@@ -134,7 +134,7 @@
 * Thus it has a lysogenic phase (RNA based lysogenic viruses are rare)
 * No cure yet, but can be slowed down by two categories of drugs: both mess with the virus reproduction:
   1. Inhibits the action of enzymes called proteases which are needed to produce the final version of the HIV proteins.
-  2. (Includes the drug AZT) Inhibits the HIV reverse transcriptase. AZT is shaped like T, and may sometimes be used instead of T, but it cannot be incorporated into a growing DNA chain.
+  2. (Includes the drug AZT) Inhibits the HIV reverse transcriptase. AZT is shaped like T, and may sometimes be used instead of T, but it cannot be incorporated into a growing DNA chain. AZT has an N3 instead of OH (at 3') in the deoxyribose ring
 
 ## Viriods and Prions
 * Viriods: Small circular strands of RNA, infect plants. They don't encode proteins but they can be replicated using the cell machinery, and interfere with the regulatory systems that control the plant growth

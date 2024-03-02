@@ -46,6 +46,7 @@
 * Promoter: At the beginning of a gene, RNA polymerase attaches here
 * RNA synthesis continues till a terminator sequence is reached
 * Inside the RNA polymerase, the two strands are split, the RNA nucleotides are matched with the nucleotides in one strand, and released from the DNA. DNA is then wound back towards the exit.
+* RNA produced after transcription is released into the nucleolus in eukaryotes and into the cytoplasm itself (which is where it occurs) in bacteria
 
 ## Processing of Eukaryotic DNA
 * In prokaryotes, the RNA produced immediately functions as mRNA.

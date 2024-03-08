@@ -1,4 +1,4 @@
-# Chapter 1, 2: Introduction and Chemistry
+# Chapter 1, 2, 3: Introduction and Chemistry
 ## Process of Science
 * Discovery Science
   * Seeking natural causes for natural phenomena

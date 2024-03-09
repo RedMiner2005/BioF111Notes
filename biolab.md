@@ -17,7 +17,7 @@
 > Incomplete notes, now I'll just add points from here and there
 
 # Random points
-* The first thing that happens to a plant in a hypertonic environment: Flaccid -> Plasmolysis -> Cytorhysis. Equivalent shrinking in animal cells: crenation
+* The first thing that happens to a plant in a hypertonic environment: Flaccid -> Plasmolysis -> Cytorrhysis. Equivalent shrinking in animal cells: crenation
 * Glucagon: Increases glucose levels in blood, increases during fasting. It stimulates the secretion of ghrelin which will simulate a feeding response. Given to Type 1 diabetes. Opposite function of insulin, converts glycogen to glucose (insulin does reverse).
 * Immersion oil slide preparation: Refractive index = glass slide, so more resolving power. Used for 100x magnification
 * Phenols reduce Phosphomolybdicphosphotungstic acid to give heteropolymolybdenum
@@ -26,11 +26,12 @@
 * Blue-green and red algae lack chlorophyll b. Only found in plants and green algae
 * Two covalent and two coordinate bonds to Mg<sup>2+</sup> in chlorophyll.
   * At C7 of pyrrole ring IV, a phytol tail (20C) is attached (through a propionic ester bond). Useful in orientation and anchoring of chlorophyll.
-  * At C3 of pyrrole ring II, -CH<sub>3</sub> inn chlorophyll a, and aldehyde in chlorophyll b.
+  * At C3 of pyrrole ring II, -CH<sub>3</sub> in chlorophyll a, and aldehyde in chlorophyll b.
   * b is an accessory, transfers energy to a, about 2-3 more a than b in plants.
   * a found in all.
   * The fifth isocyclic ring is the chemically active site with only carbons
   * a: blue-green, b: yellow-green
+  * In algae, you will find only a, c, d, e at max.
   * a: soluble in petroleum, b: soluble in methyl alcohol
   * Xanthophyll: yellow, carotene: yellow-orange.
 * Cytolysis: hypotonic, cell bursts. Crenation(animals)/Cytorrhysis(plants): hypertonic
@@ -39,4 +40,9 @@
 * Extreme dehydration -> drink salt+sugar mixed water, or water packed with electrolytes (Isotonic condition for cells)
 * Minimum resolvable distance, where N: RI of the medium between sample and lens, $\alpha$ is the aperture angle of the objective lens:
 $$D_{min} = \dfrac{0.5\lambda}{N sin\alpha}$$
-
+* Tungsten lamp is used as light source in colorimetry, mostly
+  * Condensing lens: Parallel light rays
+  * Filter: Monochromatic light
+  * Phototube/photocell: light to electrical energy
+* Order of Rf (descending): Carotene, Xanthophyll, Chlorophyll a, Chlorophyll b
+* Chlorophyll b is the most hydrophilic. It goes the least distance in the experiment since the solvent is not water, it is petroleum ether, which is hydrophobic

@@ -46,3 +46,4 @@ $$D_{min} = \dfrac{0.5\lambda}{N sin\alpha}$$
   * Phototube/photocell: light to electrical energy
 * Order of Rf (descending): Carotene, Xanthophyll, Chlorophyll a, Chlorophyll b
 * Chlorophyll b is the most hydrophilic. It goes the least distance in the experiment since the solvent is not water, it is petroleum ether, which is hydrophobic
+* Transpiration regulates turgidity of a plant cell by reducing the turgor pressure

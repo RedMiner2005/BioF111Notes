@@ -140,3 +140,6 @@
 ## Viriods and Prions
 * Viriods: Small circular strands of RNA, infect plants. They don't encode proteins but they can be replicated using the cell machinery, and interfere with the regulatory systems that control the plant growth
 * Prions: Misfolded protein, causes various brain diseases in sheep and goats (scrapie), deer and elk (chronic wasting disease), cow (mad cow disease, earlier known as BSE, bovine spongiform encephalopathy). Prions convert the normal protein to the misfolded version These abnormal proteins clump together and lead to loss of brain tissue.
+
+> [!NOTE]
+> Histones are positively charged as DNA is negatively charged.
